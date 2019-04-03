@@ -1,0 +1,6 @@
+C:\Users\Soumya\source\repos\3tierexample\DAL\bin\Debug\DAL.dll
+C:\Users\Soumya\source\repos\3tierexample\DAL\bin\Debug\DAL.pdb
+C:\Users\Soumya\source\repos\3tierexample\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Soumya\source\repos\3tierexample\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Soumya\source\repos\3tierexample\DAL\obj\Debug\DAL.dll
+C:\Users\Soumya\source\repos\3tierexample\DAL\obj\Debug\DAL.pdb
